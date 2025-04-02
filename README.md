@@ -2,9 +2,13 @@
 
 I'm a Computer Science and Applied Mathematics student with a passion for low-level programming and a deep curiosity about how computers work.
 
-- 🔭 I’m currently working on ... and ...
+- 🔭 I’m currently working on [custom ARM operating system](https://github.com/atwardzik/kernel_rp2040) and [IDE for low level development](https://github.com/atwardzik/hxdump)
 - 💾 I focus mostly on ARM architecture
+- 🎓 At the university I'm working on Quantum Computing hardware
 
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atwardzik)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
