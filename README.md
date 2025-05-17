@@ -4,7 +4,7 @@ I'm a Computer Science and Applied Mathematics student with a passion for low-le
 
 - 🔭 I’m currently working on [custom ARM operating system](https://github.com/atwardzik/kernel_rp2040) and [IDE for low level development](https://github.com/atwardzik/hxdump)
 - 💾 I focus mostly on ARM architecture
-- 🎓 At the university I'm working on Quantum Computing hardware
+- 🎓 At the university I'm working on Quantum Computing hardware and creating ARM assembly courses.
 
 ---
 
