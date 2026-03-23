@@ -1,14 +1,46 @@
-## Hi there 👋
+# Hi there 👋
 
-I'm a Computer Science and Applied Mathematics student with a passion for low-level programming and a deep curiosity about how computers work.
+**Computer Science & Applied Mathematics Student**
 
-- I’m currently working on [custom ARM operating system](https://github.com/atwardzik/kernel_rp2040) and [C compiler](https://github.com/atwardzik/Micro-C)
-- I focus mostly on ARM architecture
-- At the university I'm creating ARM assembly courses.
+*Passionate about low-level programming and understanding how computers really work.*
+
+I focus on **ARM architecture**, developing custom operating system and low level solutions from scratch. Currently preparing to teach ARM assembly at university. Always exploring the boundaries of bare-metal programming.
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atwardzik)](https://github.com/anuraghazra/github-readme-stats)
+## Featured Projects
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[GeT OS](https://github.com/atwardzik/os_kernel)** | Custom ARM operating system for my [GeT Computer](https://github.com/atwardzik/GeT_Computer) | C, ARM Assembly, CMake, Makefile |
+| **[hxutil](https://github.com/atwardzik/hxutil)** | Simple IDE for low-level development with syntax highlighting | C++, Qt |
+| **[CPUemulator](https://gitlab.com/atwardzik/cpuemulator)** | CPU emulator with custom architecture, featuring integrated assembler, disassembler, and debugger | C++
+
+---
+
+## Tech Stack
+**Languages:** `C` `C++` `ARM Assembly` `Rust` `Python`
+
+**OS:** `Linux` `macOS`
+
+**Tools:** `nvim` `CLion` `VSCode` `Git`
+
+---
+
+## GitHub Stats
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atwardzik&layout=compact&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=atwardzik&show_icons=true&theme=radical)
+
+---
+
+## Languages
+Polish (Native), English, German
+
+
+## Connect
+
+**Email:** atwardzik@protonmail.com
 
 
 <!--
