@@ -29,8 +29,8 @@ I focus on **ARM architecture**, developing custom operating system and low leve
 
 ## GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atwardzik&layout=compact&theme=radical)
-![Stats](https://github-readme-stats.vercel.app/api?username=atwardzik&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atwardzik&layout=compact)
+![Stats](https://github-readme-stats.vercel.app/api?username=atwardzik&show_icons=true)
 
 ---
 
@@ -41,6 +41,8 @@ Polish (Native), English, German
 ## Connect
 
 **Email:** atwardzik@protonmail.com
+
+**LinkedIn:** [Artur Twardzik](https://www.linkedin.com/in/artur-twardzik-ab78343b9)
 
 
 <!--
